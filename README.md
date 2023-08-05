@@ -7,7 +7,7 @@
 
 ## larryknaebelobsidian.github.io
 
-- [obsidian](https://larryknaebel2obsidian.github.io)
+- [kingdom](https://larryknaebel2obsidian.github.io)
 
   
 
