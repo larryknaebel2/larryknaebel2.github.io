@@ -3,7 +3,7 @@
 ## larryknaebel2.github.io
 
 - [luasamples](https://larryknaebel2.github.io/luasamples/) lua [git](https://github.com/larryknaebel2/luasamples.git)
-- [clojurebible](https://larryknaebel2.github.io/clojure-bible/) clojure
+- [clojurebible](https://larryknaebel2.github.io/clojure-bible/) clojure [git](https://github.com/larryknaebel2/clojure-bible.git)
 
 ## larryknaebelobsidian.github.io
 
