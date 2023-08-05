@@ -1,4 +1,4 @@
-# Some Projects
+# GitHub Pages
 
 ## larryknaebel2.github.io
 
