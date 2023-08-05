@@ -2,21 +2,21 @@
 
 ## larryknaebel2.github.io
 
-- [luasamples](https://larryknaebel2.github.io/luasamples/)
-- [clojurebible](https://larryknaebel2.github.io/clojure-bible/)
+- [luasamples](https://larryknaebel2.github.io/luasamples/) lua
+- [clojurebible](https://larryknaebel2.github.io/clojure-bible/) clojure
 
 ## larryknaebelobsidian.github.io
 
-- [kingdom](https://larryknaebel2obsidian.github.io)
+- [kingdom](https://larryknaebel2obsidian.github.io) obsidian notes
 
 ## larryknaebelflightsim.github.io
 
-- [poormansweather](https://larryknaebelflightsim.github.io/poormansweather/)
+- [poormansweather](https://larryknaebelflightsim.github.io/poormansweather/) lua
 
 ## larryknaebelaviation.github.io
 
-- [Aircraft](https://larryknaebelaviation.github.io/Aircraft)
-- [ATC](https://larryknaebelaviation.github.io/ATC)
+- [Aircraft](https://larryknaebelaviation.github.io/Aircraft) C#
+- [ATC](https://larryknaebelaviation.github.io/ATC) C#
   
 
 
