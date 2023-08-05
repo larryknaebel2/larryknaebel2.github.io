@@ -7,7 +7,7 @@
 
 ## larryknaebelobsidian.github.io
 
-- [kingdom](https://larryknaebel2obsidian.github.io) obsidian notes
+- [kingdom](https://larryknaebel2obsidian.github.io) obsidian notes on George N. H. Peters ***The Theocratic Kingdom***
 
 ## larryknaebelflightsim.github.io
 
