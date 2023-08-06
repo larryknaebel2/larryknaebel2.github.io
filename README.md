@@ -1,4 +1,3 @@
-# GitHub Pages
 
 ## larryknaebel2.github.io
 
