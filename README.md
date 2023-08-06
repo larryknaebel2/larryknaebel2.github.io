@@ -4,6 +4,7 @@
 
 - [luasamples](https://larryknaebel2.github.io/luasamples/) lua [git](https://github.com/larryknaebel2/luasamples.git)
 - [clojurebible](https://larryknaebel2.github.io/clojure-bible/) clojure [git](https://github.com/larryknaebel2/clojure-bible.git)
+- [larryknaebel2](https://github.com/larryknaebel2) has 29 repositories as of August 6, 2023
 
 ## larryknaebelobsidian.github.io
 
