@@ -11,7 +11,7 @@
 
 ## larryknaebelflightsim.github.io
 
-- [poormansweather](https://larryknaebelflightsim.github.io/poormansweather/) lua [git](https://larryknaebelflightsim.github.io/poormansweather.git)
+- [poormansweather](https://larryknaebelflightsim.github.io/poormansweather/) lua [git](https://github.com/larryknaebelflightsim/poormansweather.git)
 
 ## larryknaebelaviation.github.io
 
