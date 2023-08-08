@@ -1,7 +1,7 @@
 
 ## larryknaebel2.github.io
 
-- [luasamples](https://larryknaebel2.github.io/luasamples/) **lua** [git](https://github.com/larryknaebel2/luasamples.git)
+- [luasamples](https://larryknaebel2.github.io/luasamples/) **lua** [git](https://github.com/larryknaebel2/luasamples.git)<br>
   Simple sample lua code to help learn lua
 - [clojurebible](https://larryknaebel2.github.io/clojure-bible/) **clojure** [git](https://github.com/larryknaebel2/clojure-bible.git)
 - [larryknaebel2](https://github.com/larryknaebel2) has 30 repositories as of August 6, 2023 including several in **golang** and a couple related to **OpenShift pipelines**. Not including those shown on this page, many of the others are merely clones that were used in learning the technologies for professional use.
