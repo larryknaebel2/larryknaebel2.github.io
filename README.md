@@ -1,5 +1,18 @@
 
 ## larryknaebel2.github.io
+---
+repositoryname: luasamples
+language: lua
+readme: https://larryknaebel2.github.io/luasamples/
+remoteurl: https://github.com/larryknaebel2/larryknaebel2.github.io.git
+description: Simple sample lua code to help learn lua
+---
+repositoryname: clojurebible
+language: clojure
+readme: https://larryknaebel2.github.io/luasamples/
+remoteurl: https://github.com/larryknaebel2/larryknaebel2.github.io.git
+description: Command line application to display specified Bible verses in any of 10 translations 
+---
 
 - [luasamples](https://larryknaebel2.github.io/luasamples/) **lua** [git](https://github.com/larryknaebel2/luasamples.git)
 - [clojurebible](https://larryknaebel2.github.io/clojure-bible/) **clojure** [git](https://github.com/larryknaebel2/clojure-bible.git)
