@@ -1,18 +1,20 @@
 
 ## larryknaebel2.github.io
----
-repositoryname: luasamples
-language: lua
-readme: https://larryknaebel2.github.io/luasamples/
-remoteurl: https://github.com/larryknaebel2/larryknaebel2.github.io.git
-description: Simple sample lua code to help learn lua
----
-repositoryname: clojurebible
-language: clojure
-readme: https://larryknaebel2.github.io/luasamples/
-remoteurl: https://github.com/larryknaebel2/larryknaebel2.github.io.git
-description: Command line application to display specified Bible verses in any of 10 translations 
----
+<dl>
+<dt>Repository Name</dt> <dd>luasamples</dd>
+<dt>Language</dt> <dd>lua</dd>
+<dt>Readme</dt> <dd>https://larryknaebel2.github.io/luasamples/</dd>
+<dt>Remote url</dt> <dd>https://github.com/larryknaebel2/larryknaebel2.github.io.git</dd>
+<dt>Description</dt> <dd>Simple sample lua code to help learn lua</dd>
+</dl>
+
+<dl>
+<dt>Repository Name</dt> <dd>clojurebible</dd>
+<dt>Language</dt> <dd>clojure</dd>
+<dt>Readme</dt> <dd>https://larryknaebel2.github.io/clojure-bible/</dd>
+<dt>Remote url</dt> <dd>https://github.com/larryknaebel2/clojure-bible.git</dd>
+<dt>Description</dt> <dd>Command line application written in clojure that displays Bible verses in any of 10 translations</dd>
+</dl>
 
 - [luasamples](https://larryknaebel2.github.io/luasamples/) **lua** [git](https://github.com/larryknaebel2/luasamples.git)
 - [clojurebible](https://larryknaebel2.github.io/clojure-bible/) **clojure** [git](https://github.com/larryknaebel2/clojure-bible.git)
