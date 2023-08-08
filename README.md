@@ -3,7 +3,7 @@
 
 - [luasamples](https://larryknaebel2.github.io/luasamples/) **lua** [git](https://github.com/larryknaebel2/luasamples.git)
 - [clojurebible](https://larryknaebel2.github.io/clojure-bible/) **clojure** [git](https://github.com/larryknaebel2/clojure-bible.git)
-- [larryknaebel2](https://github.com/larryknaebel2) has 30 repositories as of August 6, 2023. Besides those shown on this page, the others include several in **golang** and a couple relating to **OpenShift pipelines**. Almost all of these are clones that were used in learning the technologies for professional use.
+- [larryknaebel2](https://github.com/larryknaebel2) has 30 repositories as of August 6, 2023 including several in **golang** and a couple relating to **OpenShift pipelines**. Not including those shown on this page, many of the others are clones that were used in learning the technologies for professional use.
 
 ## larryknaebelobsidian.github.io
 
