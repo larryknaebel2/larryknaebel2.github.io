@@ -6,8 +6,8 @@
 - [clojurebible](https://larryknaebel2.github.io/clojure-bible/) **clojure** [git](https://github.com/larryknaebel2/clojure-bible.git)<br>
   Command line application written in clojure that displays Bible verses in any of 10 translations
 - [larryknaebel2](https://github.com/larryknaebel2)<br>
-  has 30 repositories as of August 6, 2023 including several in **golang** and a couple related to **OpenShift pipelines**. Not including those shown on this page, many of the others are merely clones that were used in learning the technologies for professional use.
-
+  has 30 repositories as of August 6, 2023 including **golang** , **OpenShift pipelines** and **Tekton**.
+  
 ## larryknaebelobsidian.github.io
 
 - [kingdom](https://larryknaebelobsidian.github.io/kingdom/) **obsidian**  [git](https://github.com/larryknaebelobsidian/kingdom.git) <br>
